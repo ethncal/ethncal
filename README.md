@@ -1,4 +1,5 @@
-### Hi there 👋
+### Ethan Calura
+### Mohawk College
 
 <!--
 **ethncal/ethncal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
